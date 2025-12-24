@@ -2,13 +2,13 @@
 
 ## 👋 About Me
 
-Hi, I’m **Dr. Riyaz Basha Mandiyam, PhD** — a **Lecturer & IT Trainer**, **AWS Certified Solutions Architect – Associate**, and **Cloud / AI Researcher** with a strong foundation in both academia and industry.
+Hi, I’m **Dr. Riyaz Basha Mandiyam, PhD** — a **Lecturer & IT Trainer at King Saud University (CFY)**, **AWS Certified Solutions Architect – Associate**, and **Cloud / AI Researcher** with a strong foundation in both academia and industry.
 
 I specialize in designing, teaching, and implementing **scalable cloud architectures**, **DevOps automation**, and **IoT–ML systems**, bridging theoretical research with real-world engineering practice.
 
-- 🏫 **Lecturer & IT Trainer** at **King Saud University**, Riyadh, Saudi Arabia  
+- 🏫 **Lecturer & IT Trainer** at **King Saud University**, Riyadh, Saudi Arabia
+- 🎓 **Academic professional** with 4+ years in teaching, mentoring, and curriculum delivery    
 - ☁️ **Cloud & DevOps Engineer** with ~3 years of hands-on AWS experience  
-- 🎓 **Academic professional** with 4+ years in teaching, mentoring, and curriculum delivery  
 - 🔬 **Cloud & AI Researcher** focused on IoT, Machine Learning, and automation  
 - 🐧 **Linux System Administrator** (RHEL, Ubuntu)  
 - ⚙️ Expertise in **CI/CD, Cloud Engineering, Production Support**, and infrastructure automation  
