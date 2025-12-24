@@ -23,6 +23,40 @@ My work is driven by a single principle:
 
 🌱 *Always learning. Always building.*
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/riyazmbasha/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:riyazm.basha37)
+
+## 🧰 Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Apache Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Apache](https://img.shields.io/badge/Apache-red?logo=apache)
+![Maven](https://img.shields.io/badge/Maven-red?logo=apachemaven)
+![Nginx](https://img.shields.io/badge/Nginx-green?logo=nginx)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)
+![Tomcat](https://img.shields.io/badge/Tomcat-yellow?logo=apachetomcat)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-blue?logo=amazondynamodb)
+![MariaDB](https://img.shields.io/badge/MariaDB-brown?logo=mariadb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Ansible](https://img.shields.io/badge/Ansible-black?logo=ansible)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus)
+![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana)
+![Gradle](https://img.shields.io/badge/Gradle-darkgreen?logo=gradle)
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform)
+
 ## 🐍 Contribution Snake
 
 ![github contribution snake animation](https://raw.githubusercontent.com/RiyazMBasha/RiyazMBasha/output/github-contribution-grid-snake.svg)
