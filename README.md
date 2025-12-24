@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Riyaz%20Basha%20|%20AWS%20Solutions%20Architect&fontSize=36&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Dr.%20Riyaz%20Basha%20Mandiyam%20|%20Cloud%20%26%20AI%20Architect&fontSize=34&fontAlignY=38&desc=PhD%20%7C%20AWS%20Solutions%20Architect%20%E2%80%93%20Associate%20%7C%20Lecturer%20%26%20Researcher&descAlignY=60" />
+
 
 ## 👋 About Me
 
