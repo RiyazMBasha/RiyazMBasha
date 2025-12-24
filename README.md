@@ -22,3 +22,8 @@ My work is driven by a single principle:
 **build robust systems, teach with clarity, and deliver solutions that translate directly to real-world impact.**
 
 🌱 *Always learning. Always building.*
+
+## 🐍 Contribution Snake
+
+![github contribution snake animation](https://raw.githubusercontent.com/RiyazMBasha/RiyazMBasha/output/github-contribution-grid-snake.svg)
+
